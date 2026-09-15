@@ -2,7 +2,7 @@
 
 Software developer and B.Sc. Information Technology graduate based in Prague, Czech Republic.
 
-I work mainly with Python and have experience with data and image processing, automation, debugging, Linux environments, computer vision and deep learning through professional and academic projects.
+I work mainly with python and have experience with data and image processing, automation, debugging, linux environments, computer vision and deep learning through professional and academic projects.
 
 ## Tech
 

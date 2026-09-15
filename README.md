@@ -10,7 +10,7 @@ I work mainly with Python and have experience with data and image processing, au
 
 **Data & ML:** Pandas · NumPy · SciPy · PyTorch
 
-**Systems & Tools:** Linux / UNIX · Git · Oracle SQL / PL/SQL · VHDL · FPGA
+**Systems & Tools:** Linux / UNIX · Git · Oracle SQL / PL/SQL · FPGA
 
 ## Selected projects
 
